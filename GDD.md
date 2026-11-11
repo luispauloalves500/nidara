@@ -61,13 +61,13 @@ Se nenhuma porta abrir, o Instinto bruto empurra a maré. E segue o último enxe
 
 ## Essências e presas
 
-Carne abre o próximo corpo e aumenta o tamanho. Lume vem de água-viva. Memória vem de mergulhador ou barco destruído.
+Carne abre o próximo corpo, aumenta o tamanho e devolve um pouco de vida. Lume vem de água-viva. Memória vem de mergulhador ou barco destruído.
 
 Sardinha 4 (contato). Atum 14 (mordida; contato se já houver Fauces). Foca 28. Água-viva 10 + 8 lume (contato fere; com Arco, alimenta). Mergulhador 22. Barco 36. Rival 40. Irmão 120.
 
 ## Irmão Cego
 
-Nasce quando o terceiro enxerto fecha. Pálido, couraça, chifre, investida em linha. Matá-lo é a vitória da maré. Dá para continuar na baía depois.
+Nasce quando o terceiro enxerto fecha. Pálido, couraça, chifre. Para, fica vermelho, e só então investe em linha. Matá-lo é a vitória da maré. Dá para continuar na baía depois.
 
 ## Sensação e áudio
 
